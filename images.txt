@@ -2,3 +2,4 @@ nudttan91/arkanoid:gzctf
 nudttan91/gzctf_hctf_2018_warmup
 ghcr.io/w4terdr0p/w4terctf-2023/one-number-sql:latest
 nudttan91/begin_2024_zupload-pro:gzctf
+nudttan91/sictf_round3_2024_100_upload:gzctf
