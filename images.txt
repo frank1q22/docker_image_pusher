@@ -1,3 +1,4 @@
 nginx
 nudttan91/gzctf_hctf_2018_warmup
 ghcr.io/w4terdr0p/w4terctf-2023/the-moment-of-token:latest
+nudttan91/begin_2024_sqlteachingbureau:gzctf
