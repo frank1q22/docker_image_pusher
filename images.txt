@@ -4,3 +4,4 @@ ghcr.io/w4terdr0p/w4terctf-2023/one-number-sql:latest
 nudttan91/begin_2024_zupload-pro:gzctf
 nudttan91/sictf_round3_2024_100_upload:gzctf
 ghcr.io/svuctf/svuctf-winter-2023/nc:latest
+ghcr.io/svuctf/svuctf-winter-2023/ez_upload:latest
