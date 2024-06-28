@@ -8,3 +8,4 @@ ghcr.io/svuctf/svuctf-winter-2023/ez_upload:latest
 nudttan91/md5bypass:pass01_gzctf
 nudttan91/md5bypass:pass02_gzctf
 nudttan91/md5bypass:pass03_gzctf
+kiwiconctf2038/web-blog
