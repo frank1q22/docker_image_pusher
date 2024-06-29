@@ -10,3 +10,4 @@ nudttan91/md5bypass:pass02_gzctf
 nudttan91/md5bypass:pass03_gzctf
 kiwiconctf2038/web-blog
 cwkd/php8.1-apache
+nudttan91/begin_2024_sqlteachingbureau:gzctf
