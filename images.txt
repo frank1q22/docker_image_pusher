@@ -1,1 +1,1 @@
-tomcat:8.5.32-jdk8-openjdk-slim
+duonghuuphuc/tomcat-8.5.32
