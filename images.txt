@@ -1,1 +1,1 @@
-duonghuuphuc/tomcat-8.5.32
+ghcr.io/w4terdr0p/w4terctf-2023/nc-test:latest
