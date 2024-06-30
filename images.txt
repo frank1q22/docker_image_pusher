@@ -14,5 +14,4 @@ nudttan91/begin_2024_sqlteachingbureau:gzctf
 nyr4ki/php_7.4_mysql_8.0:v0
 nudttan91/gzctf_westerns_2018_shrine
 node
-php:7.4-apache
-php:5.3-apache
+php:5.1-apache
