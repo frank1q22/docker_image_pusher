@@ -1,1 +1,1 @@
-ghcr.io/w4terdr0p/w4terctf-2023/nc-test:latest
+ghcr.io/w4terdr0p/w4terctf-2023/shadow:latest
