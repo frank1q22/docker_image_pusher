@@ -1,1 +1,1 @@
-ghcr.io/w4terdr0p/w4terctf-2023/tic-tac-toe-level-0:latest
+honmashironeko/arl-docker-all
