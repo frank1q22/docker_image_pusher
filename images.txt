@@ -1,1 +1,1 @@
-gztime/gzctf:latest
+yankovg/python3.8.2-ubuntu18.04
