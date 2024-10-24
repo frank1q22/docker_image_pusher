@@ -1,1 +1,1 @@
-ctftraining/base_image_nginx_mysql_php_73
+ctftraining/base_image_nginx_mysql_php_56
