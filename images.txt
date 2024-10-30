@@ -1,1 +1,2 @@
-ubuntu:14.04
+ghcr.io/downunderctf/docker-vendor/xssbot:chrome
+python:3.9-slim
