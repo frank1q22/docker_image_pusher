@@ -1,1 +1,1 @@
-fnichol/uhttpd
+ctfhub/web_nginx_php_5.6
