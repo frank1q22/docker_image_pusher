@@ -1,1 +1,1 @@
-ctfhub/web_nginx_php_5.6
+ctfhub/web_nginx_php_7.4
