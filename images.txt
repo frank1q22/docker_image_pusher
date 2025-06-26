@@ -1,1 +1,1 @@
-python:3.11-alpine
+lsiobase/alpine:3.11
