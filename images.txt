@@ -1,1 +1,1 @@
-lsiobase/alpine:3.11
+mysql:8.0.21
