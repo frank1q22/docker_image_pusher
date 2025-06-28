@@ -1,1 +1,1 @@
-mysql:8.0.21
+python:3.9-slim-jammy
