@@ -1,1 +1,1 @@
-python:3.9-slim-jammy
+fnndsc/ubuntu-python3:ubuntu20.04-python3.8.5 
